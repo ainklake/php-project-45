@@ -7,11 +7,15 @@
             "Hexlet\\Code\\": "src/"
         }
     },
+    "bin": [
+        "bin/brain-games"
+    ],
     "authors": [
         {
             "name": "Anton Kalenik",
             "email": "anton@inklake.ru"
         }
     ],
+    "license": "proprietary",
     "require": {}
 }
